@@ -1,0 +1,9 @@
+@import "https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css";
+@import "https://blackrockdigital.github.io/startbootstrap-landing-page/vendor/fontawesome-free/css/all.min.css";
+@import "https://blackrockdigital.github.io/startbootstrap-landing-page/vendor/simple-line-icons/css/simple-line-icons.css";
+@import "https://blackrockdigital.github.io/startbootstrap-landing-page/css/landing-page.min.css";
+@import "https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic";
+.App {
+  font-family: "Lato", sans-serif;
+  text-align: center;
+}
